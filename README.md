@@ -1,3 +1,3 @@
-# Learning Next.js
+# Build a blog using Next.js
 
-build a web app using nextjs
+I build a simple blog-project step-by-step using Next.js.
