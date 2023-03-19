@@ -9,5 +9,6 @@ Run `npm install & npm run dev`.
 This will install all packages and start the blog in localhost:3000.
 
 ## Features
-- render posts content using static generation
+- render posts content using static generation method from Next.js
+- load posts from markdown 
 - dynamic routes
