@@ -24,9 +24,9 @@ export default function Home({ allPostsData }) {
 
       <section className={utilStyles.headingMd}>
         <p>
-          Hi, I am Julia. I am a Software Engineer and social influencer. You
-          can contact me on twitter @juliadizhak{" "}
+          Hi, I am Julia. I am a Software Engineer.
         </p>
+        <p>You can contact me on twitter @juliadizhak{" "}</p>
       </section>
 
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
