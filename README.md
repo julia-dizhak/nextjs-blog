@@ -7,7 +7,7 @@ Here is a simple blog built using Next.js, JavaScript, CSS, HTML, React.
 Here is how the design look like for desktop and mobile
 ![blog](./docs/blog.png)
 
- The project is available on link [Blog](https://nextjs-blog-taupe-mu.vercel.app/).
+The project is available on link [Blog](https://nextjs-blog-taupe-mu.vercel.app/).
 
 ## Run locally
 
